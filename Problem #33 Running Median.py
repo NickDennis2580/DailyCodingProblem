@@ -1,3 +1,5 @@
+
+# My solution
 def runningAverage(x):
     medians = []
     temp = []
